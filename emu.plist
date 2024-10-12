@@ -17,7 +17,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>SZ977XLF24.com.stik.StikEMU</string>
+                <string>com.stik.StikEMU</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
